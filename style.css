@@ -1,0 +1,31 @@
+html{
+  padding:0;
+  margin:0;
+}
+
+#inputBox{
+  margin:0 auto;
+  text-align:center;
+  background:#8888FF;
+  color:white;
+  border:5px solid white;
+  padding:20px;
+  width:20%;
+}
+
+#inputSub{
+  padding:10px;
+  font-size:15px;
+  background-color:#99FF99;
+  border:solid 1px black;
+  border-radius:5px;
+}
+
+#inputText{
+  padding:10px;
+  text-align:center;
+}
+
+body{
+  background:black;
+}
